@@ -82,11 +82,14 @@ endmodule
  
 **Logic symbol & Truthtable**
 
+
 **RTL realization Output:** 
+
 ![Screenshot 2024-03-20 091415](https://github.com/PranaveshSaikumar/study-of-basic-gates/assets/151001393/3a91a0b1-07fc-4cfb-b7cc-87700064a6b8)
 
 
 **Output**
+
 ![Screenshot 2024-03-20 092147](https://github.com/PranaveshSaikumar/study-of-basic-gates/assets/151001393/abcc6ff6-5008-4748-b4f1-27a2d2197757)
 
 
